@@ -1,0 +1,11 @@
+13:29:18,000  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:30:37,381  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:31:39,394  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:33:15,267  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:33:17,204  INFO Main:66 - List:
+13:33:17,204  INFO Main:1257 - Owner{id=1, firstName='Krzysztof', lastName='Kozłowski', age=27}
+13:34:38,102  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:34:42,612  INFO Main:69 - List:
+13:37:43,167  WARN pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:37:55,471  INFO Main:78 - List:
+13:37:55,471  INFO Main:1257 - Owner{id=2, firstName='Krzysztof', lastName='Kozłowski', age=27}
